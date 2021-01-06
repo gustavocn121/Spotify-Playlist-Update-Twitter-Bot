@@ -10,7 +10,7 @@
 
 3 - run the "main.py" file and have fun *u*
 
-*Instagram = @gustavocn_*
+*Instagram = https://www.instagram.com/gustavocn_  or  @gustavocn_*
 *Linkedin = https://www.linkedin.com/in/gustavocn/*
 *Github = https://github.com/gustavocn121*
 
