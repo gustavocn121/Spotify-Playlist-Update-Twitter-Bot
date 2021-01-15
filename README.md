@@ -1,12 +1,11 @@
 # Spotify Playlist Update Tweeter Bot
 Bot que posta qualquer atualização ocorrida em uma determinada playlist do spotify em uma determinada conta no twitter, utilizando a API do spotify e do twitter
 
-Exemplo de post:
-  " A música "Teen X (feat. Future)" por  Playboi Carti, Future foi REMOVIDA da playlist https://open.spotify.com/track/5uYqmEN6TAAE8ss8YmprNV "
+Exemplos:
 
-  print: https://prnt.sc/wrlpi6
+![](scrshts/1)
 
-
+![](scrshts/2)
 
 ### COMO UTILIZAR 
 
