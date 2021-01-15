@@ -8,7 +8,7 @@ Exemplo de post:
 
 
 
-##COMO UTILIZAR 
+## COMO UTILIZAR 
 
 1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
 
@@ -23,7 +23,7 @@ Exemplo de post:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-##HOW TO USE
+## HOW TO USE
 
 1 - get the spotify secrets by creating an application in this website (https://developer.spotify.com/dashboard/login) and the id of the playlist you desire then pasting it in the right spots in the "SpotifySecrets.py" file
 
