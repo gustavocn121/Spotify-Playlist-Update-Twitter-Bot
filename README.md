@@ -1,5 +1,23 @@
 # Spotify Playlist Update Tweeter Bot
- A bot that posts any update on your spotify playlist to your twitter account  with the link to the song at the bottom ("Song <songname> by <artist1, artist2,...> was <added/removed> to the playlist <songlink>) using the spotify and twitter api.
+Bot que posta qualquer atualização ocorrida em uma determinada playlist do spotify em uma determinada conta no twitter, utilizando a API do spotify e do twitter
+exemplo de post:
+A música "Teen X (feat. Future)" por  Playboi Carti, Future foi REMOVIDA da playlist https://open.spotify.com/track/5uYqmEN6TAAE8ss8YmprNV
+
+print: https://prnt.sc/wrlpi6
+
+------------- COMO UTILIZAR -------------
+
+1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
+
+2 - Faça o mesmo para as chaves do twitter porém nesse link: (url: https://developer.twitter.com/en) e cole no arquivo "tweepy_keys.py".
+
+3 - Execute o arquivo "main.py" e aproveite *u*
+
+*Instagram = https://www.instagram.com/gustavocn_  ou  @gustavocn_
+*Linkedin = https://www.linkedin.com/in/gustavocn/  
+*Github = https://github.com/gustavocn121
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ------------- HOW TO USE -------------
@@ -10,8 +28,5 @@
 
 3 - run the "main.py" file and have fun *u*
 
-*Instagram = https://www.instagram.com/gustavocn_  or  @gustavocn_*
-*Linkedin = https://www.linkedin.com/in/gustavocn/*
-*Github = https://github.com/gustavocn121*
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
+*Instagram = https://www.instagram.com/gustavocn_  or  @gustavocn_
+*Linkedin = https://www.linkedin.com/in/gustavocn/
