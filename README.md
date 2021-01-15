@@ -3,9 +3,9 @@ Bot que posta qualquer atualização ocorrida em uma determinada playlist do spo
 
 Exemplos:
 
-![](scrshts/1)
+![](scrshts/Screenshot_1.png)
 
-![](scrshts/2)
+![](scrshts/Screenshot_2.png)
 
 ### COMO UTILIZAR 
 
