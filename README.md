@@ -5,7 +5,7 @@ Exemplo de post:
   " A música "Teen X (feat. Future)" por  Playboi Carti, Future foi REMOVIDA da playlist https://open.spotify.com/track/5uYqmEN6TAAE8ss8YmprNV "
 
   print: https://prnt.sc/wrlpi6
-
+  ![alt text](https://prnt.sc/wrlpi6)
 ------------- COMO UTILIZAR -------------
 
 1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
