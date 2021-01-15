@@ -1,12 +1,11 @@
 # Spotify Playlist Update Tweeter Bot
 Bot que posta qualquer atualização ocorrida em uma determinada playlist do spotify em uma determinada conta no twitter, utilizando a API do spotify e do twitter
 
-Exemplos:
+Exemplos (clique na imagem para ver na página do twitter) :
 
-<img src="scrsht/Screenshot_1.png" />
+<a href="https://twitter.com/BotNsnt/status/1342618981136539650"><img src="scrsht/Screenshot_1.png" /></a>
 
-![](scrsht/Screenshot_2.png)
-
+<a href="https://twitter.com/BotNsnt/status/1341454476775985152"><img src="scrsht/Screenshot_2.png" /></a>
 ### COMO UTILIZAR 
 
 1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
