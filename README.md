@@ -3,9 +3,9 @@ Bot que posta qualquer atualização ocorrida em uma determinada playlist do spo
 
 Exemplos:
 
-![](Spotify-Playlist-Update-Twitter-Bot/scrsht/Screenshot_1.png)
+<img src="scrsht/Screenshot_1.png" />
 
-![](scrshts/Screenshot_2.png)
+![](scrsht/Screenshot_2.png)
 
 ### COMO UTILIZAR 
 
