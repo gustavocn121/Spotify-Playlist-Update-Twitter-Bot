@@ -19,7 +19,7 @@ Exemplos (clique na imagem para ver na página do twitter) :
   <h4>Linkedin: <a target="_blank" style="color:#6639BC" href="https://www.linkedin.com/in/gustavocn/">gustavocn</a></h4>
   <h4>Github: <a style="color:#6639BC" target="_blank" href="https://github.com/gustavocn121">gustavocn121</a></h4>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 ### HOW TO USE
