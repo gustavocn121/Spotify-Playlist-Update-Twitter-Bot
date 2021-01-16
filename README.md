@@ -8,26 +8,29 @@ Exemplos (clique na imagem para ver na página do twitter) :
 <a href="https://twitter.com/BotNsnt/status/1341454476775985152"><img src="scrsht/Screenshot_2.png" /></a>
 ### COMO UTILIZAR 
 
-1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
+    1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
 
-2 - Faça o mesmo para as chaves do twitter porém nesse link: (url: https://developer.twitter.com/en) e cole no arquivo "tweepy_keys.py".
+    2 - Faça o mesmo para as chaves do twitter porém nesse link: (url: https://developer.twitter.com/en) e cole no arquivo "tweepy_keys.py".
 
-3 - Execute o arquivo "main.py" e aproveite *u*
+    3 - Execute o arquivo "main.py" e aproveite *u*
 
-*Instagram = https://www.instagram.com/gustavocn_  ou  @gustavocn_
-*Linkedin = https://www.linkedin.com/in/gustavocn/  
-*Github = https://github.com/gustavocn121
+<h3>Minhas redes sociais: </h2>
+  <h4>Instagram: <a style="color:#6639BC" target="_blank" href="https://www.instagram.com/gustavocn_">@gustavocn_</a></h4>
+  <h4>Linkedin: <a target="_blank" style="color:#6639BC" href="https://www.linkedin.com/in/gustavocn/">gustavocn</a></h4>
+  <h4>Github: <a style="color:#6639BC" target="_blank" href="https://github.com/gustavocn121">gustavocn121</a></h4>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### HOW TO USE
 
-1 - get the spotify secrets by creating an application in this website (https://developer.spotify.com/dashboard/login) and the id of the playlist you desire then pasting it in the right spots in the "SpotifySecrets.py" file
+    1 - get the spotify secrets by creating an application in this website (https://developer.spotify.com/dashboard/login) and the id of the playlist you desire then pasting it in the right spots in the "SpotifySecrets.py" file
 
-2 - the same but for the twitter api (url: https://developer.twitter.com/en) and pasting it to the "tweepy_keys.py" file
+    2 - the same but for the twitter api (url: https://developer.twitter.com/en) and pasting it to the "tweepy_keys.py" file
 
-3 - run the "main.py" file and have fun *u*
+    3 - run the "main.py" file and have fun *u*
 
-*Instagram = https://www.instagram.com/gustavocn_  or  @gustavocn_
-*Linkedin = https://www.linkedin.com/in/gustavocn/
+<h3>My social media: </h3>
+  <h4>Instagram: <a style="color:#6639BC" target="_blank" href="https://www.instagram.com/gustavocn_">@gustavocn_</a></h4>
+  <h4>Linkedin: <a target="_blank" style="color:#6639BC" href="https://www.linkedin.com/in/gustavocn/">gustavocn</a></h4>
+  <h4>Github: <a style="color:#6639BC" target="_blank" href="https://github.com/gustavocn121">gustavocn121</a></h4>
