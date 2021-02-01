@@ -1,6 +1,10 @@
 # Spotify Playlist Update Tweeter Bot
 Bot que posta qualquer atualização ocorrida em uma determinada playlist do spotify em uma determinada conta no twitter, utilizando a API do spotify e do twitter
 
+# Siga o BOT!
+
+<p align="left"> <a href="https://twitter.com/BotNsnt" target="blank"><img src="https://img.shields.io/twitter/follow/BotNsnt?logo=twitter&style=for-the-badge" alt="BotNsnt" /></a> </p>
+
 Exemplos (clique na imagem para ver na página do twitter) :
 
 <a href="https://twitter.com/BotNsnt/status/1342618981136539650"><img  height="auto" width ="60%" src="scrsht/Screenshot_1.png" /></a>
