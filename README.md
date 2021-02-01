@@ -11,7 +11,7 @@ Bot que posta qualquer atualização ocorrida em uma determinada playlist do spo
 <a href="https://twitter.com/BotNsnt/status/1342618981136539650"><img  height="auto" width ="60%" src="scrsht/Screenshot_1.png" /></a>
 
 <a href="https://twitter.com/BotNsnt/status/1341454476775985152"><img height="auto" width ="60%" src="scrsht/Screenshot_2.png" /></a>
-### COMO UTILIZAR 
+## COMO UTILIZAR 
 
        1 - Crie um aplicativo no site developer spotify (https://developer.spotify.com/dashboard/login) e copie o "client id" e o "client secret" e copie o id da playlist do spotify que vc pretende utilizar, em seguida cole essas informações dentro do arquivo "SpotifySecrets.py" nos devidos lugares.
 
@@ -19,7 +19,7 @@ Bot que posta qualquer atualização ocorrida em uma determinada playlist do spo
 
        3 - Execute o arquivo "main.py" e aproveite *u*
 
-<h3>Minhas redes sociais: </h2>
+<h2>Minhas redes sociais: </h2>
   <h4>Instagram: <a style="color:#6639BC" target="_blank" href="https://www.instagram.com/gustavocn_">@gustavocn_</a></h4>
   <h4>Linkedin: <a target="_blank" style="color:#6639BC" href="https://www.linkedin.com/in/gustavocn/">gustavocn</a></h4>
   <h4>Github: <a style="color:#6639BC" target="_blank" href="https://github.com/gustavocn121">gustavocn121</a></h4>
